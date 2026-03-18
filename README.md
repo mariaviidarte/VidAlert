@@ -6,8 +6,16 @@ In a cardiac arrest, every minute without CPR reduces survival chances by 7–10
 
 ---
 
+## 🎬 Demo Videos
+
+| Demo | Link |
+|---|---|
+| App + WhatsApp flow | [Watch on YouTube](https://www.youtube.com/watch?v=iYD_D7acz5I) |
+| Wearable flow (Wear OS) | [Watch on YouTube](https://www.youtube.com/watch?v=OdCPYIBMtHo) |
+
 ## Table of Contents
 
+- [Demo Videos](#-demo-videos)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
