@@ -1,0 +1,24 @@
+# Secrets
+.env
+firebase-adminsdk.json
+VidaAlert/.env
+VidaAlert/firebase-adminsdk.json
+firstvoice/.env
+panel-144/.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.expo/
+dist/
+build/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
